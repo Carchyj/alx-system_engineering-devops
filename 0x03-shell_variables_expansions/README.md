@@ -13,4 +13,5 @@
 11. script that converts a number from base 2 to base 10.
 12. script that prints all possible combinations of two letters, except oo.
 13. script that prints a number with two deciml places, followed by a new line.
-14. script that converts a number from bse 10 to baase 16.
+14. script that converts a number from base 10 to base 16.
+15. script that encodes and decodes text using rot13 encrpytion. Assume ASCII.
